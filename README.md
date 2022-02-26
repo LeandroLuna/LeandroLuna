@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [[project name]](project link)
 
-- 👨‍💻 All of my projects are available at [[portfolio link]](portfolio link)
+- 👨‍💻 All of my projects are available at [[github.io portfolio]](portfolio link)
 
-- 📝 I regularly write articles on [[blog link]](blog link)
+- 📝 I regularly write articles on [[leandro-luna.me google domain]](blog link)
 
 - 💬 Ask me about **human psychology. Besides programming, I am very interested in the human brain and I would really enjoy having a conversation about it!**
 
