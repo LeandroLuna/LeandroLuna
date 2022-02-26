@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Leandro Luna</h1>
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
 
-- 🔭 I’m currently working on [[project name]]([project link])
+- 🔭 I’m currently working on [[project name]](project link)
 
 - 🌱 I’m currently learning **Java, Computer Network, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express**
 
-- 👯 I’m looking to collaborate on [[project name]]([project link])
+- 👯 I’m looking to collaborate on [[project name]](project link)
 
-- 🤝 I’m looking for help with [[project name]]([project link])
+- 🤝 I’m looking for help with [[project name]](project link)
 
-- 👨‍💻 All of my projects are available at [[portfolio link]]([portfolio link])
+- 👨‍💻 All of my projects are available at [[portfolio link]](portfolio link)
 
-- 📝 I regularly write articles on [[blog link]]([blog link])
+- 📝 I regularly write articles on [[blog link]](blog link)
 
-- 💬 Ask me about **[things i am good in]**
+- 💬 Ask me about **human psychology. Besides programming, I am very interested in the human brain and I would really enjoy having a conversation about it!**
 
-- 📫 How to reach me **leandro.j.luna@gmail.com**
+- 📫 How to reach me: **leandro.j.luna@gmail.com**
 
-- 📄 Know about my experiences [[resume link]]([resume link])
+- 📄 Know about my experiences: [Profissional Resume](https://drive.google.com/file/d/1NnBRE_QQtedbZTzKV6YLfSl8zd5L5AOA/view?usp=sharing)
 
-- ⚡ Fun fact **[fun fact here]**
+- ⚡ Fun fact: **Whenever I was faced with a problem, the problem came to an end.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
