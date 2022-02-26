@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [[project name]](project link)
 
-- 🌱 I’m currently learning **Java, Computer Network, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express**
+- 🌱 I’m currently learning **Java, Computer Network, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework)**
 
 - 👯 I’m looking to collaborate on [[project name]](project link)
 
