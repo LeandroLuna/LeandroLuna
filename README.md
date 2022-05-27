@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Leandro Luna</h1>
 <h3 align="center">A passionate frontend developer from Brazil!</h3>
 
-- 🔭 I’m currently working on [[project name]](project link)
+- 🔭 I’m currently working on [FORD Project](https://github.com/LeandroLuna/Ford) and [Rupamax - Undergrad Research](https://github.com/LeandroLuna/RupahMax)
 
-- 🌱 I’m currently learning **Java, Computer Network, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework)**
+- 🌱 I’m currently learning **OOP Concepts (using Java), Computer Networking, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework), Angular, Typescript, IOS Development (Swift) and UX/UI Design.**
 
-- 👯 I’m looking to collaborate on [[project name]](project link)
+- 👯 I’m looking to collaborate on mobile IOS development and projects related to healthcare. 
 
-- 🤝 I’m looking for help with [[project name]](project link)
+<!-- - 🤝 I’m looking for help with [[project name]](project link) -->
 
-- 👨‍💻 All of my projects are available at [[github.io portfolio]](portfolio link)
+<!-- - 👨‍💻 All of my projects are available at [[github.io portfolio]](portfolio link) -->
 
-- 📝 I regularly write articles on [[leandro-luna.me google domain]](blog link)
+<!-- - 📝 I regularly write articles on [[leandro-luna.me google domain]](blog link) -->
 
-- 💬 Ask me about **human psychology. Besides programming, I am very interested in the human brain and I would really enjoy having a conversation about it!**
+- 💬 Ask me about **human psychology. Besides frontend/IOS programming, I am very interested in the human brain and I would really enjoy having a conversation about it!**
 
 - 📫 How to reach me: **leandro.j.luna@gmail.com**
 
