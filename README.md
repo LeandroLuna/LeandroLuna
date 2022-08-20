@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **leandro.j.luna@gmail.com**
 
-- 📄 Know about my experiences: [Profissional Resume](https://drive.google.com/file/d/1NnBRE_QQtedbZTzKV6YLfSl8zd5L5AOA/view?usp=sharing)
+- 📄 Know about my experiences: [Professional Resume](https://drive.google.com/file/d/1NnBRE_QQtedbZTzKV6YLfSl8zd5L5AOA/view?usp=sharing)
 
 - ⚡ Fun fact: **Whenever I was faced with a problem, the problem came to an end.**
 
