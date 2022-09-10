@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FORD Project](https://github.com/LeandroLuna/Ford) and [Rupamax - Undergrad Research](https://github.com/LeandroLuna/RupahMax)
 
-- 🌱 I’m currently learning **OOP Concepts (using Java), Computer Networking, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework), Angular, Typescript, IOS Development (Swift) and UX/UI Design.**
+- 🌱 I’m currently learning **Computer Networking, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework), Angular and IOS Development (Swift).**
 
 - 👯 I’m looking to collaborate on mobile IOS development and projects related to healthcare. 
 
