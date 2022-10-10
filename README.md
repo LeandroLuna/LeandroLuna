@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Luna</h1>
 <h2 align="center">A passionate frontend developer from Brazil!</h2>
 
-- 🔭 I’m currently working on [FORD Project](https://github.com/LeandroLuna/Ford) and [Rupamax - Undergrad Research](https://github.com/LeandroLuna/RupahMax)
+- 🔭 I’m currently working on [Rupamax - Undergrad Research](https://github.com/LeandroLuna/RupahMax)
 
 - 🌱 I’m currently learning **Computer Networking, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework), Angular and IOS Development (Swift).**
 
