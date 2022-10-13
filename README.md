@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Networking, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework), Angular and IOS Development (Swift).**
 
-- 👯 I’m looking to collaborate on mobile IOS development and projects related to healthcare. 
+- 👯 I’m looking to collaborate on mobile iOS development and projects related to healthcare. 
 
 <!-- - 🤝 I’m looking for help with [[project name]](project link) -->
 
