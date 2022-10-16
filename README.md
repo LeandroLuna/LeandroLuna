@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leandro Luna</h1>
 <h2 align="center">A passionate frontend developer from Brazil!</h2>
 
-- 🔭 I’m currently working on [Rupamax - Undergrad Research](https://github.com/LeandroLuna/RupahMax)
+<!-- - 🔭 I’m currently working on []() -->
 
-- 🌱 I’m currently learning **Computer Networking, Software Engineering, Artificial Inteligence, Node.JS, MongoDB, Express (web framework), Angular and IOS Development (Swift).**
+- 🌱 I’m currently learning **Computer Networking, Software Engineering, Artificial Inteligence, Angular and IOS Development (Swift).**
 
-- 👯 I’m looking to collaborate on mobile iOS development and projects related to healthcare. 
+- 👯 I’m looking to collaborate on mobile iOS development and Machine Learning/IA based projects related to healthcare. 
 
 <!-- - 🤝 I’m looking for help with [[project name]](project link) -->
 
@@ -13,7 +13,7 @@
 
 <!-- - 📝 I regularly write articles on [[leandro-luna.me google domain]](blog link) -->
 
-- 💬 Ask me about **human psychology. Besides frontend/IOS programming, I am very interested in the human brain and I would really enjoy having a conversation about it!**
+- 💬 Ask me about **human psychology. Besides frontend/iOS programming, I am very interested in the human brain and I would really enjoy having a conversation about it!**
 
 - 📫 How to reach me: **leandro.j.luna@gmail.com**
 
