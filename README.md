@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on []() -->
 
-- 🌱 I’m currently learning **Computer Network, Software Engineering, Artificial Inteligence, Angular and IOS Development (Swift).**
+- 🌱 I’m currently learning **Artificial Inteligence, Angular and IOS Development (Swift).**
 
 - 👯 I’m looking to collaborate on mobile iOS development and Machine Learning/IA based projects related to healthcare. 
 
