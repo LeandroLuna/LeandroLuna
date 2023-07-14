@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **human psychology. Besides engineering, I am very interested in the human brain and I would really enjoy having a conversation about it!**
 
-- 📫 How to reach me: **leandro.j.luna@gmail.com**
+- 📫 How to reach me: **leandro.j.luna@gmail.com** | **https://www.linkedin.com/in/luna-leandro/**
 
 - 📄 Know about my experiences: [Professional Resume](https://drive.google.com/file/d/1NnBRE_QQtedbZTzKV6YLfSl8zd5L5AOA/view?usp=sharing)
 
