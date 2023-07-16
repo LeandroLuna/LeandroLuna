@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on []() -->
 
-- 🌱 I’m currently learning **ML/AI, Angular and AWS.**
+- 🌱 I’m currently learning **ML/AI, Fullcycle dev and AWS.**
 
 - 👯 I’m looking to collaborate on Machine Learning/IA based projects related to healthcare. 
 
@@ -13,7 +13,7 @@
 
 <!-- - 📝 I regularly write articles on [[leandro-luna.me google domain]](blog link) -->
 
-- 💬 Ask me about **human psychology. Besides engineering, I am very interested in the human brain and I would really enjoy having a conversation about it!**
+- 💬 Ask me about **human psychology. Besides engineering, I am very interested in the human behaviors and I would really enjoy having a conversation about it!**
 
 - 📫 How to reach me: **leandro.j.luna@gmail.com** | **https://www.linkedin.com/in/luna-leandro/**
 
