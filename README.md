@@ -24,8 +24,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/luna-leandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luna-leandro" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/leandroluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="leandroluna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lelunaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lelunaa" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
